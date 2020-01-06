@@ -8,6 +8,20 @@ cache:
 install:
   - npm install
   
+  before_script:
+script:
+  - npm run build
+
+after_script:
+  - cd ./dist
+  - git init
+  - git config user.name "SOFT356-Genshushu"
+  - git config user.email "zhuang.ma@students.plymouth.ac.uk"
+  - git add .
+  - git commit -m "Update tools"
+  - git push --force --quiet "https://github.com/SOFT356-Genshushu/MJ.git" master:master
+
+  
 branches:
   only:
     - master
