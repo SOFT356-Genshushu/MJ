@@ -20,7 +20,7 @@ jobs:
     - name: npm install
       run: |
         npm install
-        cd /home/runner/work/MJ/Servers
+        cd /home/runner/work/MJ/MJ/Servers
         npm install
         npm run starts
       env:
