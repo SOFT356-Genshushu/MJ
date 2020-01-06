@@ -1,0 +1,21 @@
+{
+  "actualPlatform": "web-mobile",
+  "apiLevel": "android-10",
+  "appABIs": [
+    "armeabi"
+  ],
+  "buildPath": "D:\\",
+  "debug": true,
+  "embedWebDebugger": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}

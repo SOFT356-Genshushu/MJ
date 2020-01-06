@@ -1,0 +1,231 @@
+/* 1 */
+{
+  "_id" : ObjectId("5de5c721707b2d531763bd11"),
+  "logonTime" : ISODate("2019-12-03T02:23:29.789Z"),
+  "loginTime" : ISODate("2019-12-03T02:23:29.789Z"),
+  "score" : 0,
+  "pass" : "123456",
+  "account" : "xxx",
+  "id" : 123456,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("5de846bf2f3b864b8c583e79"),
+  "logonTime" : ISODate("2019-12-04T23:52:31.138Z"),
+  "loginTime" : ISODate("2019-12-04T23:52:31.138Z"),
+  "score" : 1,
+  "pass" : "qqq",
+  "account" : "qqq",
+  "id" : 27915483,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("5de8476660ab21e443bebdf9"),
+  "logonTime" : ISODate("2019-12-04T23:55:18.845Z"),
+  "loginTime" : ISODate("2019-12-04T23:55:18.845Z"),
+  "score" : 1,
+  "pass" : "zzz",
+  "account" : "zzz",
+  "id" : 13950600,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 4 */
+{
+  "_id" : ObjectId("5de84c92bb88e2cf1fea7258"),
+  "logonTime" : ISODate("2019-12-05T00:17:22.544Z"),
+  "loginTime" : ISODate("2019-12-05T00:17:22.544Z"),
+  "score" : 1,
+  "pass" : "aaa",
+  "account" : "aaa",
+  "id" : 86997355,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 5 */
+{
+  "_id" : ObjectId("5de87696d5cf0f104c7a0981"),
+  "logonTime" : ISODate("2019-12-05T03:16:38.734Z"),
+  "loginTime" : ISODate("2019-12-05T03:16:38.734Z"),
+  "score" : 1,
+  "pass" : "999",
+  "account" : "999",
+  "id" : 76222003,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 6 */
+{
+  "_id" : ObjectId("5de8783bd01ac11358065f85"),
+  "logonTime" : ISODate("2019-12-05T03:23:39.125Z"),
+  "loginTime" : ISODate("2019-12-05T03:23:39.125Z"),
+  "score" : 1,
+  "pass" : "333",
+  "account" : "333",
+  "id" : 59725564,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 7 */
+{
+  "_id" : ObjectId("5dea99ef3831f33ec8be85a1"),
+  "logonTime" : ISODate("2019-12-06T18:11:59.775Z"),
+  "loginTime" : ISODate("2019-12-06T18:11:59.775Z"),
+  "score" : 1,
+  "pass" : "ppp",
+  "account" : "ppp",
+  "id" : 49365708,
+  "__v" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg"
+}
+
+/* 8 */
+{
+  "_id" : ObjectId("5dea9bc4fd2e923be432c388"),
+  "logonTime" : ISODate("2019-12-06T18:19:48.499Z"),
+  "loginTime" : ISODate("2019-12-06T18:19:48.499Z"),
+  "score" : 42,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg",
+  "nickName" : "lll",
+  "pass" : "lll",
+  "account" : "lll",
+  "id" : 97556400,
+  "__v" : 0
+}
+
+/* 9 */
+{
+  "_id" : ObjectId("5df361c14fd0ef3d5065dbb1"),
+  "logonTime" : ISODate("2019-12-13T10:02:41.254Z"),
+  "loginTime" : ISODate("2019-12-13T10:02:41.254Z"),
+  "score" : 0,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "zz",
+  "pass" : "zz",
+  "account" : "zz",
+  "id" : 82916034,
+  "__v" : 0
+}
+
+/* 10 */
+{
+  "_id" : ObjectId("5df411bc8a377206786a137e"),
+  "logonTime" : ISODate("2019-12-13T22:33:32.307Z"),
+  "loginTime" : ISODate("2019-12-13T22:33:32.307Z"),
+  "score" : 0,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "ll",
+  "pass" : "ll",
+  "account" : "ll",
+  "id" : 72701625,
+  "__v" : 0
+}
+
+/* 11 */
+{
+  "_id" : ObjectId("5df423f431a3903cdcc04fef"),
+  "logonTime" : ISODate("2019-12-13T23:51:16.201Z"),
+  "loginTime" : ISODate("2019-12-13T23:51:16.201Z"),
+  "score" : 6,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "www",
+  "pass" : "www",
+  "account" : "www",
+  "id" : 27110955,
+  "__v" : 0
+}
+
+/* 12 */
+{
+  "_id" : ObjectId("5df42c2231a3903cdcc04ff0"),
+  "logonTime" : ISODate("2019-12-14T00:26:10.053Z"),
+  "loginTime" : ISODate("2019-12-14T00:26:10.053Z"),
+  "score" : 0,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "1",
+  "pass" : "1",
+  "account" : "1",
+  "id" : 11124148,
+  "__v" : 0
+}
+
+/* 13 */
+{
+  "_id" : ObjectId("5df42c2831a3903cdcc04ff1"),
+  "logonTime" : ISODate("2019-12-14T00:26:16.024Z"),
+  "loginTime" : ISODate("2019-12-14T00:26:16.024Z"),
+  "score" : 0,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "2",
+  "pass" : "2",
+  "account" : "2",
+  "id" : 93117135,
+  "__v" : 0
+}
+
+/* 14 */
+{
+  "_id" : ObjectId("5df42c2d31a3903cdcc04ff2"),
+  "logonTime" : ISODate("2019-12-14T00:26:21.862Z"),
+  "loginTime" : ISODate("2019-12-14T00:26:21.862Z"),
+  "score" : 0,
+  "headimgUrl" : "https://raw.githubusercontent.com/SOFT356-Genshushu/Pic/master/1.png",
+  "nickName" : "3",
+  "pass" : "3",
+  "account" : "3",
+  "id" : 85121959,
+  "__v" : 0
+}
+
+/* 15 */
+{
+  "_id" : ObjectId("5dfbb61a0081dc2ab49d18e2"),
+  "logonTime" : ISODate("2019-12-19T17:40:42.073Z"),
+  "loginTime" : ISODate("2019-12-19T17:40:42.073Z"),
+  "score" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg",
+  "nickName" : "ddd",
+  "pass" : "ddd",
+  "account" : "ddd",
+  "id" : 79116209,
+  "__v" : 0
+}
+
+/* 16 */
+{
+  "_id" : ObjectId("5dfbbc020081dc2ab49d18e3"),
+  "logonTime" : ISODate("2019-12-19T18:05:54.222Z"),
+  "loginTime" : ISODate("2019-12-19T18:05:54.222Z"),
+  "score" : 0,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg",
+  "nickName" : "ooo",
+  "pass" : "oo",
+  "account" : "ooo",
+  "id" : 79411639,
+  "__v" : 0
+}
+
+/* 17 */
+{
+  "_id" : ObjectId("5dfcaacf1c5a024530faa969"),
+  "logonTime" : ISODate("2019-12-20T11:04:47.622Z"),
+  "loginTime" : ISODate("2019-12-20T11:04:47.622Z"),
+  "score" : 34,
+  "headimgUrl" : "http://i4.fuimg.com/583278/00e2ef22ec67b9b0.jpg",
+  "nickName" : "test",
+  "pass" : "test",
+  "account" : "test",
+  "id" : 43353948,
+  "__v" : 0
+}
+
