@@ -10,7 +10,8 @@ install:
   
   before_script:
 script:
-  - npm run build
+  - node Start.js
+  - cd web Api.js
 
 after_script:
   - cd ./dist
