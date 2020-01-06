@@ -21,6 +21,6 @@ jobs:
       run: |
         npm install
         cd Servers
-        node start.js
+        npm run start
       env:
         CI: true
