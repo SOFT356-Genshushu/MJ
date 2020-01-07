@@ -20,6 +20,6 @@ jobs:
     - name: npm install
       run: |
         cd /home/runner/work/MJ/MJ/Servers
-        npm run starts
+        npm run start
       env:
         CI: true
