@@ -35,6 +35,10 @@
     "sequelize": "^4.27.0",
     "ws": "^2.2.3"
   },
+  "scripts":{
+    "testID": "mocha IDs.test.js",
+    "build":"node build.js"
+  }，
   "author": "ZHUANGMA",
   "license": "ISC"
 }
