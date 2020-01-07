@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start.js",
+    "Api": "node web/Api.js",
     "preaction": "node core/PreAction.js",
     "testID":"mocha tests/IDs.test.js",
     "web": "node web/bin/www"
