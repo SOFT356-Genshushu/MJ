@@ -22,6 +22,6 @@ jobs:
         cd /home/runner/work/MJ/MJ/Servers
         npm i
         npm build --if-present
-        npm run Api 
+        npm run Api --if-present
       env:
         CI: true
