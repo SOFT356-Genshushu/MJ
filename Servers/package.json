@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start.js",
     "preaction": "node core/PreAction.js",
-    "testID":"mocha IDs.test.js",
+    "testID":"mocha tests/IDs.test.js",
     "web": "node web/bin/www"
   },
   "dependencies": {
