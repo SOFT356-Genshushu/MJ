@@ -21,6 +21,6 @@ jobs:
       run: |
         cd /home/runner/work/MJ/MJ/Servers
         npm i
-        npm run web/Api
+        npm run Api
       env:
         CI: true
