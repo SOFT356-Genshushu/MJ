@@ -18,6 +18,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: npm install
+      working-directory: /home/runner/work/MJ/MJ/Servers
       run: |
         npm install
       env:
