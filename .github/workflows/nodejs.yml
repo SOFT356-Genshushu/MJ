@@ -21,6 +21,7 @@ jobs:
       run: |
         cd /home/runner/work/MJ/MJ/Servers
         npm i
-        npm run start
+        cd /home/runner/work/MJ/MJ/Servers/tests
+        mocha IDs.test.js
       env:
         CI: true
