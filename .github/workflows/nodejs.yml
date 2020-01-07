@@ -21,7 +21,6 @@ jobs:
       run: |
         cd /home/runner/work/MJ/MJ/Servers
         npm i
-        cd /home/runner/work/MJ/MJ/Servers/tests
         npm run testID
       env:
         CI: true
