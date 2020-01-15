@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.1",
-    "bson": "^0.5.6",
+    "bson": "^1.0.5",
     "bufferutil": "^3.0.0",
     "bunyan": "^1.8.5",
     "consistent": "^1.1.0",
@@ -25,7 +25,7 @@
     "in-app-purchase": "^1.1.10",
     "ioredis": "^3.1.4",
     "memwatch-next": "^0.3.0",
-    "mongoose": "^4.11.11",
+    "mongoose": "^5.7.5",
     "msgpack-lite": "^0.1.26",
     "node-cmd": "^3.0.0",
     "node-schedule": "^1.2.0",
@@ -35,7 +35,7 @@
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
     "sequelize": "^4.27.0",
-    "ws": "^2.2.3"
+    "ws": "^3.3.1"
   },
   "author": "ZHUANGMA",
   "license": "ISC"
